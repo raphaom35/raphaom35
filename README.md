@@ -3,7 +3,7 @@
   <code>
     <a href="https://www.linkedin.com/in/raphaelmartinsdev/" title="LinkedIn Profile"><img width="22" src="https://github.com/raphaom35/raphaom35/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://stackoverflow.com/users/13270550/raphael-martins" title="Stack Overflow Profile"><img width="22" src="https://github.com/raphaom35/raphaom35/blob/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/raphael_o_martins/" title="Instagram Profile"><img width="22" src="https://github.com/raphaom35/raphaom35/blob/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/raphael_martins._/" title="Instagram Profile"><img width="22" src="https://github.com/raphaom35/raphaom35/blob/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 
