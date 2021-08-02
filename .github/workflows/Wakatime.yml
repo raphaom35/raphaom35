@@ -15,6 +15,5 @@ jobs:
         with:
           WAKATIME_API_KEY: 7ad1ae74-bd82-4e4e-b0a9-d5dc78b9683a
           GH_TOKEN: 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
-          SHOW_OS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_COMMIT: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_LOC_CHART: "False"
