@@ -1,0 +1,21 @@
+
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: 7ad1ae74-bd82-4e4e-b0a9-d5dc78b9683a
+          GH_TOKEN: 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
+          USERNAME: raphaom35 # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
+
+
