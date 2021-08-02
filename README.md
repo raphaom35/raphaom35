@@ -8,7 +8,7 @@
 <br>
 
 <hr>
-
+[![Waka Readme](https://github.com/raphaom35/raphaom35/actions/workflows/blank.yml/badge.svg)](https://github.com/raphaom35/raphaom35/actions/workflows/blank.yml)
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
