@@ -14,7 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: 7ad1ae74-bd82-4e4e-b0a9-d5dc78b9683a
-          GH_TOKEN: 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
+          GH_TOKEN: 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
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_COMMIT: "True"
