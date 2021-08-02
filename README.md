@@ -41,7 +41,7 @@
 </p>
 <hr>
 
-
+<h2 align="center">📊 Esta semana passei meu tempo em</h2>
 <!--START_SECTION:waka-->
 ```text
 Java         2 hrs 11 mins   ███████████████████████░░   92.19 % 
