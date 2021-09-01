@@ -47,8 +47,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java     54 mins         ███████████████████████▓░   95.21 % 
-XML      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
