@@ -47,7 +47,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java   49 mins         █████████████████████████   99.99 % 
+Java         4 hrs 48 mins   █████████████████▒░░░░░░░   69.58 % 
+Groovy       1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.15 % 
+Properties   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
