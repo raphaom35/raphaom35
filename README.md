@@ -1,5 +1,5 @@
 <h3 align="center">Ola Sou Raphael 👋</h3>
-<p align="center"><img title="C" align="center" height="250" src="https://github.com/raphaom35/raphaom35/blob/main/images/avatar.png"></p>
+<p align="center"><img title="C" align="center" height="200" src="https://github.com/raphaom35/raphaom35/blob/main/images/avatar.png"></p>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/raphaelmartinsdev/" title="LinkedIn Profile"><img width="22" src="https://github.com/raphaom35/raphaom35/blob/main/images/linkedin.svg"> LinkedIn</a></code>
