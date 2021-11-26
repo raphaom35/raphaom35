@@ -48,10 +48,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 34 mins   ███████████████████░░░░░░   76.30 % 
-Other        1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-JSON         53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Bash         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript   3 hrs 54 mins   ████████████████████░░░░░   80.23 % 
+Other        43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
 ![Snake animation](https://github.com/raphaom35/raphaom35/blob/output/github-contribution-grid-snake.svg)
