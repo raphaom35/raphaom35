@@ -16,6 +16,7 @@
   <code><img title="C" height="25" src="https://github.com/raphaom35/raphaom35/blob/main/images/c.svg"></code>
   <code><img title="C#" height="25" src="https://github.com/raphaom35/raphaom35/blob/main/images/cSharp.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/raphaom35/raphaom35/blob/main/images/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="https://github.com/raphaom35/raphaom35/blob/main/images/typescript.png"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/raphaom35/raphaom35/blob/main/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/raphaom35/raphaom35/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/raphaom35/raphaom35/blob/main/images/css.svg"></code>
