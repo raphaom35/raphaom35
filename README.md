@@ -49,7 +49,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 52 mins    █████████████████████████   99.62 % 
+
 ```
 <!--END_SECTION:waka-->
 ![Snake animation](https://github.com/raphaom35/raphaom35/blob/output/github-contribution-grid-snake.svg)
