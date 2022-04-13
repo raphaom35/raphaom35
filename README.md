@@ -1,4 +1,4 @@
-<h3 align="center">Ola Sou Raphael 👋</h3>
+<h3 align="center">Hi I am Raphael 👋</h3>
 <p align="center"><img title="C" align="center" height="170" src="https://github.com/raphaom35/raphaom35/blob/main/images/avatar.png"></p>
 <h5 align="center">
   <code>
@@ -43,7 +43,7 @@
 </p>
 <hr>
 
-<h2 align="center">📊 Esta semana passei meu tempo em</h2>
+<h2 align="center">📊 This week I spent my time in</h2>
 <br>
 
 
