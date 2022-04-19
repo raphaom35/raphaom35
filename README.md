@@ -50,11 +50,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 11 mins   █████████████▓░░░░░░░░░░░   55.13 %
-TypeScript   3 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   40.74 %
-JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+JavaScript   4 hrs 27 mins   ████████████▓░░░░░░░░░░░░   51.33 %
+TypeScript   3 hrs 50 mins   ███████████░░░░░░░░░░░░░░   44.19 %
+JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
