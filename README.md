@@ -50,11 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 49 mins   ████████████████████▓░░░░   83.01 %
-JSON         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-TOML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
