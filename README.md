@@ -46,9 +46,7 @@
 <h2 align="center">📊 This week I spent my time in</h2>
 <br>
 
-<img
-  src="https://github.com/raphaom35/raphaom35/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Snake animation](https://github.com/raphaom35/raphaom35/blob/output/github-contribution-grid-snake.svg)
 
