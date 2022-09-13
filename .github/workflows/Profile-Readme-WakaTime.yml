@@ -1,4 +1,4 @@
-name: WakaTime status update
+name: Profile-Readme-WakaTime
 
 on:
   schedule:
