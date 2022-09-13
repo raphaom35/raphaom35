@@ -46,13 +46,9 @@
 <h2 align="center">📊 This week I spent my time in</h2>
 <br>
 
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/raphaom35/raphaom35/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 ![Snake animation](https://github.com/raphaom35/raphaom35/blob/output/github-contribution-grid-snake.svg)
 
