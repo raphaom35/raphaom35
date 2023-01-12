@@ -35,7 +35,7 @@
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-   ![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaom35a&show_icons=true&theme=radical)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   </a>
   <a href="https://github.com/raphaom35/github-readme-stats">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaom35a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
