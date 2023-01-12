@@ -16,7 +16,7 @@ jobs:
       - uses: avinal/Profile-Readme-WakaTime@master
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ 8d59653c-4aeb-4819-87e7-d2a0eb876fbc }}
+          WAKATIME_API_KEY: ${{ waka_8d59653c-4aeb-4819-87e7-d2a0eb876fbc }}
           # Automatic github token
           GITHUB_TOKEN: ${{ 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 }}
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
